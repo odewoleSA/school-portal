@@ -19,7 +19,7 @@ function App() {
       <div className="container-fluid">
         <Nav />
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/schl_portal" exact element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/career" element={<Career />} />

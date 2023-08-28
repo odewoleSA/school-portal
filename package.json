@@ -1,7 +1,7 @@
 {
-  "name": "schl_portal",
+  "name": "schl-portal",
   "version": "0.1.0",
-  "homepage": "https://odewoleSA.github.io/school_portal",
+  "homepage": "https://odewolesa.github.io/schl_portal",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
